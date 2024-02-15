@@ -1,0 +1,45 @@
+p a, h4 a h5 a{
+    color:#575759;
+}
+
+.cf-padel-pagination nav span{
+    background-color: #F58220;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    line-height: 48px;
+}
+
+.cf-padel-pagination nav a{
+    color:#575759;
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    line-height: 48px;
+}
+.cf-padel-pagination nav a.next{
+    display: none;
+}
+.news-carousel .owl-carousel .owl-item img.object-cover{
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: unset;
+} 
+
+body.body .btn-primary:not(:disabled):not(.disabled):active, body.body .btn{
+    font-size: 15px;
+    padding:6px 28px;
+    border-radius: 50px;
+    }
+
+    .banner img{
+        position: relative;
+    }
